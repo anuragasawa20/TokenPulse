@@ -1,5 +1,5 @@
 """
-🌙 Moon Dev's Twitter Login Script
+🌙  Twitter Login Script
 
 SETUP INSTRUCTIONS:
 1. First, create a .env file in your project root with:
@@ -87,7 +87,7 @@ async def main():
         # Initialize client
         client = Client()
 
-        cprint("🌙 Moon Dev's Twitter Login Script", "cyan")
+        cprint("🌙  Twitter Login Script", "cyan")
         cprint("🔑 Attempting to log in...", "cyan")
 
         # Add delay before login
