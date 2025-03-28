@@ -1,4 +1,4 @@
-[# 🌟 TokenPulse Sentiment Agent
+# 🌟 TokenPulse Sentiment Agent
 
 Real-time crypto sentiment analysis system with autonomous AI agents. Built with ❤️ by Mavens.
 
